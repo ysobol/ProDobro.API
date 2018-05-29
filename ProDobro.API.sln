@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProDobro.API", "ProDobro.API\ProDobro.API.csproj", "{D45D7E47-0913-4D38-93CF-5D2C0DDC1CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProDobro.UT", "ProDobro.UT\ProDobro.UT.csproj", "{7AF736FE-5527-4521-9F57-D4C1767C6760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45D7E47-0913-4D38-93CF-5D2C0DDC1CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45D7E47-0913-4D38-93CF-5D2C0DDC1CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45D7E47-0913-4D38-93CF-5D2C0DDC1CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45D7E47-0913-4D38-93CF-5D2C0DDC1CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF736FE-5527-4521-9F57-D4C1767C6760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF736FE-5527-4521-9F57-D4C1767C6760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF736FE-5527-4521-9F57-D4C1767C6760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF736FE-5527-4521-9F57-D4C1767C6760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58283327-98CF-4265-A253-7D71F123A87D}
+	EndGlobalSection
+EndGlobal

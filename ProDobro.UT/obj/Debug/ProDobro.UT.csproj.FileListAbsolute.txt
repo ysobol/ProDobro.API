@@ -1,0 +1,14 @@
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\ProDobro.UT.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\ProDobro.UT.pdb
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\obj\Debug\ProDobro.UT.csprojResolveAssemblyReference.cache
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\obj\Debug\ProDobro.UT.csproj.CoreCompileInputs.cache
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\obj\Debug\ProDobro.UT.csproj.CopyComplete
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\obj\Debug\ProDobro.UT.dll
+C:\ProDobro\ProDobro\ProDobro.API\ProDobro.UT\obj\Debug\ProDobro.UT.pdb
